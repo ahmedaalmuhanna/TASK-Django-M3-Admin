@@ -49,3 +49,4 @@ For the models task below take advantage of the [model field reference](https://
 2. Add validation for `hp` to be between `50` and `350`.
 3. Make your localizations optional on the admin panel (allow empty values default to your set default).
 4. Run `pytest` and pass all tests.
+# second_day_project_django
